@@ -3,6 +3,8 @@
     "eventEnabled: "false",
     "eventName": "",
     "eventImage": "",
-    "eventLink": ""
+    "eventLink": "",
+    "eventStart": "",
+    "eventEnd": ""
     }
 }
