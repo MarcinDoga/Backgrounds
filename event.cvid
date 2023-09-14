@@ -1,7 +1,7 @@
 {
   "Event": {
-    "eventEnabled": "false",
-    "eventName": "",
+    "eventEnabled": "true",
+    "eventName": "AthermoBase Events",
     "eventImage": "",
     "eventLink": "",
     "eventStart": "",
