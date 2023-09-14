@@ -3,6 +3,7 @@
     "eventEnabled": "true",
     "eventName": "AthermoBase Events",
     "eventRarity": "Rare",
+    "eventCreator": "Marcin_Doga",
     "eventImage": "https://i.imgur.com/2WSKqN7.png",
     "eventLink": "https://codeload.github.com/MarcinDoga/Backgrounds/zip/refs/heads/ObjectWallpapers",
     "eventStart": "14:09:2023",
