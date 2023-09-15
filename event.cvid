@@ -1,6 +1,6 @@
 {
   "Event": {
-    "eventEnabled": "true",
+    "eventEnabled": "false",
     "eventName": "AthermoBase Events",
     "eventRarity": "Rare",
     "eventCreator": "Marcin_Doga",
