@@ -1,6 +1,6 @@
 {
   "Event": {
-    "eventEnabled": "false",
+    "eventEnabled": "true",
     "eventName": "4K Collection",
     "eventRarity": "Rare",
     "eventCreator": "Marcin_Doga",
