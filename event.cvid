@@ -1,12 +1,12 @@
 {
   "Event": {
     "eventEnabled": "false",
-    "eventName": "AthermoBase Events",
+    "eventName": "4K Collection",
     "eventRarity": "Rare",
     "eventCreator": "Marcin_Doga",
-    "eventImage": "https://i.imgur.com/2WSKqN7.png",
-    "eventLink": "https://codeload.github.com/MarcinDoga/Backgrounds/zip/refs/heads/ObjectWallpapers",
-    "eventStart": "14:09:2023",
+    "eventImage": "https://i.imgur.com/g6CtyYi.png",
+    "eventLink": "https://codeload.github.com/MarcinDoga/Backgrounds/zip/refs/heads/Event",
+    "eventStart": "17:09:2023",
     "eventEnd": "01:12:2023"
     }
 }
