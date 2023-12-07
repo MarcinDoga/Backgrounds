@@ -1,12 +1,12 @@
 {
   "Event": {
     "eventEnabled": "true",
-    "eventName": "4K Collection",
-    "eventRarity": "Rare",
+    "eventName": "Anime Collection",
+    "eventRarity": "Legendary",
     "eventCreator": "Marcin_Doga",
-    "eventImage": "https://i.imgur.com/g6CtyYi.png",
+    "eventImage": "https://i.imgur.com/PGXTzmv.png",
     "eventLink": "https://codeload.github.com/MarcinDoga/Backgrounds/zip/refs/heads/Event",
-    "eventStart": "17:09:2023",
-    "eventEnd": "01:12:2023"
+    "eventStart": "05:12:2023",
+    "eventEnd": "01:01:2024"
     }
 }
