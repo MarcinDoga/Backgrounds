@@ -6,6 +6,8 @@
     "eventCreator": "Marcin_Doga",
     "eventImage": "https://i.imgur.com/PGXTzmv.png",
     "eventLink": "https://codeload.github.com/MarcinDoga/Backgrounds/zip/refs/heads/Event",
+    "eventMusic": "https://raw.githubusercontent.com/MarcinDoga/Backgrounds/data/eventMusic/|1|2|3|4|5|6",
+    "eventColors": ["#30416C|#041743|#5A6788", "#3A2869|#110633|#635884", "#512D69|#24043B|#725784", "#5D3A1C|#5D2000|#806753", "#807530|#3F4400|#797450", "#5A2F1A|#3E0C00|#775C4F", "#245745|#00210F|#4A7162", "#192F3E|#001728|#4A6171"],
     "eventStart": "05:12:2023",
     "eventEnd": "01:01:2024"
     }
